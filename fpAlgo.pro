@@ -16,5 +16,6 @@ SOURCES += main.cpp\
 
 
 HEADERS  += mainwindow.h \
+    task_allocation.h
 
 FORMS    += mainwindow.ui
